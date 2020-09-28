@@ -6,6 +6,7 @@
   * [http://www.dvwa.co.uk/](http://www.dvwa.co.uk/)
 * OWASP WebGoat - Learn the hack - Stop the attack 
   * [https://owasp.org/www-project-webgoat/](https://owasp.org/www-project-webgoat/)
+  * [https://github.com/WebGoat/WebGoat/releases](https://github.com/WebGoat/WebGoat/releases)
 
 
 

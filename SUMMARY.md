@@ -3,6 +3,7 @@
 * [安全专家技能树](README.md)
 * [书籍列表](an-quan-shu-ji.md)
 * [漏洞赏金和练习平台](lou-dong-ping-tai.md)
+* [前辈们的博客](qian-bei-men-de-bo-ke.md)
 
 ## 重点漏洞 <a id="chang-jian-lou-dong"></a>
 
