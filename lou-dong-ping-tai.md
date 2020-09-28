@@ -2,14 +2,21 @@
 
 ## 在线技能练习
 
-* PentesterLab: Learn Web App Pentesting! 
-  * [https://pentesterlab.com/exercises/web\_for\_pentester/course](https://pentesterlab.com/exercises/web_for_pentester/course)
 
 
-
+* Pentester Academy: Learn Pentesting Online 
+  * [https://www.pentesteracademy.com/](https://www.pentesteracademy.com/)
+  * 要付费，还很贵
+* Hack The Box :: Penetration Testing Labs 
+  * [https://www.hackthebox.eu/](https://www.hackthebox.eu/)
+* PentesterLab: Learn Web Penetration Testing: The Right Way 
+  * [https://pentesterlab.com/](https://pentesterlab.com/)
+  * 要付费
 * DVWA - Damn Vulnerable Web Application 
   * [http://www.dvwa.co.uk/](http://www.dvwa.co.uk/)
-* 
+* Root me
+  * [https://www.root-me.org/](https://www.root-me.org/)
+
 ## 漏洞赏金
 
 * Directory: Report Vulnerabilities to Companies' Security Teams 
