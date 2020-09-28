@@ -18,7 +18,7 @@
 * Types of XSS \| OWASP 
   * [https://owasp.org/www-community/Types\_of\_Cross-Site\_Scripting](https://owasp.org/www-community/Types_of_Cross-Site_Scripting)
 * **Cross Site Scripting Prevention - OWASP Cheat Sheet Series** 
-  * [https://cheatsheetseries.owasp.org/cheatsheets/Cross\_Site\_Scripting\_Prevention\_Cheat\_Sheet.h](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)tml
+  * [https://cheatsheetseries.owasp.org/cheatsheets/Cross\_Site\_Scripting\_Prevention\_Cheat\_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
   * **详解如何预防 XSS，实际上也就意味着哪些地方是常见攻击方法**
 
 
