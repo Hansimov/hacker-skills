@@ -3,6 +3,7 @@
 * [安全专家技能树](README.md)
 * [书籍列表](an-quan-shu-ji.md)
 * [Hacker101 CTF](hacker101-ctf.md)
+* [漏洞平台](lou-dong-ping-tai.md)
 
 ## 重点漏洞 <a id="chang-jian-lou-dong"></a>
 
